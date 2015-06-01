@@ -25,7 +25,9 @@ Specific websites that I've found useful
 ### Operating Systems
 Info on different operating systems that can be used to program
 
-* [**Ubuntu**](http://www.ubuntu.com/) - One of the easist linux operating systems a new person can learn.
+* [**Ubuntu**](http://www.ubuntu.com/) - One of the easist linux operating systems a new person can learn. 
+
+* [**Cron Jobs**](https://help.ubuntu.com/community/CronHowto) - How-to for setting up your first cron job.
 
 ***
 
