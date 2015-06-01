@@ -1,5 +1,5 @@
 # Programming-Learning-Resources
-Online programming resources
+Online resources, core programming concepts and syntax
 
 ### PYTHON
 
@@ -7,4 +7,8 @@ Online programming resources
 
 ### PHP
 
-### RUBY ON RAILS
+### JAVASCRIPT
+
+### HTML
+
+### CSS
