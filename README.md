@@ -35,3 +35,6 @@ Info on different operating systems that can be used to program
 
 ### SOFTWARE
 List of software that I've used or have heard great things about
+
+LINUX SOFTWARE
+* [**PyCharm**](https://www.jetbrains.com/pycharm/download/) - Python IDE for Linux. Instructions for installing it from the command line are [**HERE**](http://exponential.io/blog/2015/02/10/install-pycharm-on-ubuntu-linux/).
