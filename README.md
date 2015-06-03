@@ -23,6 +23,7 @@ Specific websites that I've found useful
 * [**Code Academy**](http://www.codecademy.com/learn) - I've enjoyed learning different programming languages with a built-in training module, designed to help newbie programmers and developers gain new skills. Each section takes what you've previously learned and adds to it with challenges that get harder each round. I would highly recommend this for new programmers and developers.
 * [**Stackoverflow**](http://stackoverflow.com/) - If you have a question, chances are there is already an answer here.
 * [**Reddit**](http://www.reddit.com/r/learnprogramming/) - Reddit page for all things programming and learning.
+* [**Alex Krupp's Blog**](http://alexkrupp.typepad.com/sensemaking/2013/11/2012-my-year-of-code.html) - Alex Krupp describes his dive into web development and what it took for him to succeed.
 
 ***
 
@@ -44,4 +45,3 @@ LINUX SOFTWARE
 
 ### MISC.
 Area where I put additional information
-* [**Alex Krupp's Blog**](http://alexkrupp.typepad.com/sensemaking/2013/11/2012-my-year-of-code.html) - Alex Krupp describes his dive into web development and what it took for him to succeed.
