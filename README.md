@@ -4,7 +4,6 @@ Online resources, core programming concepts and syntax
 ### PYTHON
 
 * [**HelloWebApp**](https://hellowebapp.com/) - This is a great book for learning PYTHON and making your first web app.
-* [**Programming the Hard Way**](http://learnpythonthehardway.org/book/index.html) - Online book for learning Python.
 * [**Learn Python The Hard Way**](http://learnpythonthehardway.org/book/) - Fantastic HTML version of Zed A. Shaw's book.
 * [**Think Python**](http://www.greenteapress.com/thinkpython/html/index.html) - HTML version of the book.
 
