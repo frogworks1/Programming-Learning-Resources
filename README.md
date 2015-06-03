@@ -44,4 +44,4 @@ LINUX SOFTWARE
 
 ### MISC.
 Area where I put additional information
-* [Alex Krupp's Blog](http://alexkrupp.typepad.com/sensemaking/2013/11/2012-my-year-of-code.html) - Alex Krupp describes his dive into web development and what it took for him to succeed.
+* [**Alex Krupp's Blog**](http://alexkrupp.typepad.com/sensemaking/2013/11/2012-my-year-of-code.html) - Alex Krupp describes his dive into web development and what it took for him to succeed.
