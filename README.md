@@ -40,7 +40,7 @@ List of software that I've used or have heard great things about
 
 LINUX SOFTWARE
 * [**PyCharm**](https://www.jetbrains.com/pycharm/download/) - Python IDE for Linux. Instructions for installing it from the command line can be found [HERE](http://exponential.io/blog/2015/02/10/install-pycharm-on-ubuntu-linux/) or [HERE](https://confluence.jetbrains.com/display/PYH/Installing+PyCharm+on+Linux+according+to+FHS)
-* [HEROKU](https://www.heroku.com/) - Host your specific web app in the cloud.
+* [**HEROKU**](https://www.heroku.com/) - Host your specific web app in the cloud.
 
 ***
 
