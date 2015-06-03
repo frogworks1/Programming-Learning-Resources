@@ -39,3 +39,9 @@ List of software that I've used or have heard great things about
 
 LINUX SOFTWARE
 * [**PyCharm**](https://www.jetbrains.com/pycharm/download/) - Python IDE for Linux. Instructions for installing it from the command line can be found [HERE](http://exponential.io/blog/2015/02/10/install-pycharm-on-ubuntu-linux/) or [HERE](https://confluence.jetbrains.com/display/PYH/Installing+PyCharm+on+Linux+according+to+FHS)
+
+***
+
+### MISC.
+Area where I put additional information
+* [Alex Krupp's Blog](http://alexkrupp.typepad.com/sensemaking/2013/11/2012-my-year-of-code.html) - Alex Krupp describes his dive into web development and what it took for him to succeed.
