@@ -6,6 +6,7 @@ Always updating, always learning - Online resources, core programming concepts a
 * [**HelloWebApp**](https://hellowebapp.com/) - This is a great book for learning PYTHON and making your first web app.
 * [**Learn Python The Hard Way**](http://learnpythonthehardway.org/book/) - Fantastic HTML version of Zed A. Shaw's book.
 * [**Think Python**](http://www.greenteapress.com/thinkpython/html/index.html) - HTML version of the book.
+* [**Python Programming**](http://pythonprogramming.net/) - The information is solid, and this is a great place to start for novice programmers.
 
 ### PHP
 
