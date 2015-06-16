@@ -25,6 +25,7 @@ Specific websites that I've found useful in learning how to program
 * [**Stackoverflow**](http://stackoverflow.com/) - If you have a question, chances are there is already an answer here.
 * [**Reddit**](http://www.reddit.com/r/learnprogramming/) - Reddit page for all things programming and learning.
 * [**Alex Krupp's Blog**](http://alexkrupp.typepad.com/sensemaking/2013/11/2012-my-year-of-code.html) - Alex Krupp describes his dive into web development and what it took for him to succeed.
+* [**Try Git**](https://try.github.io/) - Knowing how to use Git and GitHub have been extremely handy in learning how to program. It never hurts to have your code and projects in one, clean place :)
 
 ***
 
