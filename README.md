@@ -54,3 +54,4 @@ Area where I put additional information
 
 WebApp Development
 * [**Web App starting point**](https://blog.cesarandreu.com/posts/a_reasonable_starting_point_for_building_a_web_app) - Starting to build a web app, this blog article offers sound advice and a github repo for newbies.
+* [**Programmer Competency Matrix**](http://www.starling-software.com/employment/programmer-competency-matrix.html)
