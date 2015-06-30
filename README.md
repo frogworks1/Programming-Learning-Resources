@@ -8,6 +8,7 @@ Always updating, always learning - Online resources, core programming concepts a
 * [**Think Python**](http://www.greenteapress.com/thinkpython/html/index.html) - HTML version of the book.
 * [**Python Programming**](http://pythonprogramming.net/) - The information is solid, and this is a great place to start for novice programmers.
 * [**Tkinter**](http://zetcode.com/gui/tkinter/) - GUI programming in Python with Tkinter.
+* [**Python raw_input Examples**](http://www.cyberciti.biz/faq/python-raw_input-examples/)
 
 ### PHP
 
