@@ -18,6 +18,10 @@ Always updating, always learning - Online resources, core programming concepts a
 
 ### CSS
 
+### RUBY
+
+* [**Learn Ruby The Hard Way**](http://learnrubythehardway.org/book/) - Another HTML version for learning Ruby online.
+
 ***
 
 ### WEBSITES & URL's
