@@ -31,6 +31,7 @@ Always updating, always learning - Online resources, core programming concepts a
 ### WEBSITES & URL's
 Specific websites that I've found useful in learning how to program
 
+* [**Wes Bos Courses**](https://wesbos.com/) - This is by far one of the best places to learn from what I've seen. Everything from React, CSS Grid, Node, JavaScript and other tutorials. The best part is some of these courses are free. Give it a shot!
 * [**Code Academy**](http://www.codecademy.com/learn) - I've enjoyed learning different programming languages with a built-in training module, designed to help newbie programmers and developers gain new skills. Each section takes what you've previously learned and adds to it with challenges that get harder each round. I would highly recommend this for new programmers and developers.
 * [**The Odin Project**](http://www.theodinproject.com/home) - This is a pretty engaging course that takes your from point A to point B in learning how to get comfortable with WebDev.
 * [**Sololearn**](http://www.sololearn.com/) - This is a great online resource for learning how to code and program. It has a points system as well to keep you engaged and working forward.
